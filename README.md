@@ -4,3 +4,5 @@ Block Wrapper
 
 **More info:**
 https://www.concrete5.org/marketplace/addons/block-wrapper/
+
+Translations are merged from Transifex.

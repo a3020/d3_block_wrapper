@@ -5,7 +5,7 @@ class D3BlockWrapperPackage extends Package {
 
 	protected $pkgHandle = 'd3_block_wrapper';
 	protected $appVersionRequired = '5.6.0';
-	protected $pkgVersion = '1.2.1';
+	protected $pkgVersion = '1.2.5';
 	
 	public function getPackageDescription() {
 		return t("Installs a block called 'Block Wrapper'");
